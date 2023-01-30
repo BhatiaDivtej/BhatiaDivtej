@@ -5,7 +5,8 @@
 ~ Exceptionally well organised with a track record that demonstrates self motivation, creativity, and initiative to achieve both personal & organisational goals.
 ~ Motivational and entrepreneurial leadership style having highly effective planning, organising and communication skills. 
 - 👀 I’m interested in Software Development, System Architecture and the Power of Data.
-- 🌱 I’m currently learning Database Management(SQL), Android Development and NLP Modellin.
+- 🙌🏻 I'm currently learning Network Security, Operating Systems, Advanced Algorithms and Oracle Database.
+- 🌱 I am working on Database Management(SQL), Android Development and NLP Modelling projects
 - 💞️ I’m looking to collaborate on projects that leverage programming and software knowledge to implement impactful solutions.
 - 📫 Best Way to reach me will be via Email ~  divtejbhatia17@gmail.com
 
