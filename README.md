@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Divtej, a Computer Science student at HKU. Born in Delhi, India and currently studying in Hong Kong gives me a strong knowledge of developing and developed Asian Economies. 
-~ Strong technical and business acumen with skills to remain on the cutting edge; ability to drive growth through conceptualising strategies and implementing data-driven models
-~ Experience in complex and challenging decision making using software.
-~ Innovative thinker with proven ability to quickly analyse key drivers.
-~ Exceptionally well organised with a track record that demonstrates self motivation, creativity, and initiative to achieve both personal & organisational goals.
-~ Motivational and entrepreneurial leadership style having highly effective planning, organising and communication skills. 
+- 👋 Hi, I’m Divtej, a Computer Science student at HKU. Born in Delhi, India and currently studying in Hong Kong gives me a strong knowledge of developing and developed Asian Economies. Just got back from Boston, Massachusetts after spending 6 months at Northeastern University learning about programming.
+  
 - 👀 I’m interested in Software Development, System Architecture and the Power of Data.
+- 💼 For the Summer of 2023, I am working at A50 Real Assets as an Analyst focussing on data driven software development.
 - 🙌🏻 I'm currently learning Network Security, Operating Systems, Advanced Algorithms and Oracle Database.
 - 🌱 I am working on Database Management(SQL), Android Development and NLP Modelling projects
 - 💞️ I’m looking to collaborate on projects that leverage programming and software knowledge to implement impactful solutions.
