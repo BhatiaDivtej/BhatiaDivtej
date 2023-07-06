@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Divtej Bhatia</h1>
+
+
 <h3 align="center">Hi, I’m Divtej, a Computer Science student at HKU. Born in Delhi, India and currently studying in Hong Kong gives me a strong knowledge of developing and developed Asian Economies. Just got back to Hong Kong from Boston, Massachusetts after spending 6 months at Northeastern University learning about programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhatiadivtej&label=Profile%20views&color=0e75b6&style=flat" alt="bhatiadivtej" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhatiadivtej" alt="bhatiadivtej" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **I am working on Database Management(SQL), Android Development and NLP Modelling projects**
-
-- 🌱 I’m currently learning **I am working on Database Management(SQL), Android Development and NLP Modelling projects**
+- 🌱 I’m currently learning **Database Management(SQL), Android Development and NLP Modelling projects**
 
 - 👯 I’m looking to collaborate on **full-stack projects, startup ideas**
 
 - 🤝 I’m looking for help with **collaboration on projects that leverage programming and software knowledge to implement impactful solutions.**
 
-- 💬 Ask me about **python-web scraping, networking, efficient database management**
+- 💬 Ask me about **GPT, language models, AI; python, network protocols, efficient database management**
 
 - 📫 How to reach me **divtejbhatia17@gmail.com**
 
-- 📄 Know about my experiences [For the Summer of 2023, I am working at A50 Real Assets as an Analyst focussing on data driven software development.](For the Summer of 2023, I am working at A50 Real Assets as an Analyst focussing on data driven software development.)
+- 📄 Know about my experiences (For the Summer of 2023, I am working at A50 Real Assets as an Analyst focussing on data driven software development.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
