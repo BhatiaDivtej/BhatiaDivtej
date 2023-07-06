@@ -19,6 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/divtejbhatia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="divtejbhatia" height="30" width="40" /></a>
+
+</p>
+
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,3 +31,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhatiadivtej&show_icons=true&locale=en&layout=compact" alt="bhatiadivtej" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhatiadivtej&" alt="bhatiadivtej" /></p>
+
+
+![Snake animation](https://github.com/BhatiaDivtej/BhatiaDivtej/blob/output/github-contribution-grid-snake.svg)
