@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Divtej Bhatia </h1>
 
-![IMG_5512](https://github.com/BhatiaDivtej/BhatiaDivtej/assets/78818872/a1f5204d-8a28-4877-94ff-da11a60d5065)
+![imgimgimg](https://github.com/BhatiaDivtej/BhatiaDivtej/assets/78818872/42c25bd9-fed4-4d69-a08b-b07bdbbaae48)
+
 
 
 <h3 align="center">Hi, I’m Divtej, a Computer Science student at HKU. Born in Delhi, India and currently studying in Hong Kong. Just got back to Hong Kong from Boston, Massachusetts after spending 6 months at Northeastern University learning about programming.</h3>
