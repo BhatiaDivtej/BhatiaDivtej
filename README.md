@@ -1,7 +1,3 @@
-<h1 align="center">Hi 👋, I'm Divtej Bhatia </h1>
-
-![imgimgimg](https://github.com/BhatiaDivtej/BhatiaDivtej/assets/78818872/e7da426f-dcba-43e3-82f4-3ddf3c8768c6)
-
 
 <h3 align="center">Hi, I’m Divtej, a Computer Science student at HKU.</h3>
 
