@@ -2,7 +2,7 @@
 <h3 align="center">Hi, I’m Divtej, a Computer Science student at HKU.</h3>
 
 
-- 🌱 I’m currently learning Cyber Security, Generative adversarial networks and Advanced Machine Learning/Data Modelling
+- 🌱 I’m currently learning Cyber Security, Game Design in Unity, Generative adversarial networks and Deep Learning Concepts
 
 - 👯 I’m looking to collaborate on **full-stack projects, startup ideas**
 
