@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **divtejbhatia17@gmail.com**
 
-- 📄 Know about my experiences (For the Summer of 2023, I am working at A50 Real Assets as an Analyst focussing on data driven software development.)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
