@@ -10,6 +10,9 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      # Checkout your repository
+      - uses: actions/checkout@v3
+
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
@@ -17,6 +20,16 @@ jobs:
           github_user_name: BhatiaDivtej
           svg_out_path: dist/github-contribution-grid-snake.svg
 
+      # Build your project and generate data
+      - name: Build and Generate Data
+        run: |
+          # Add your build and data generation commands here
+          # Example:
+          npm install
+          npm run build
+          python generate_data.py
+
+      # Deploy the generated data to the output branch
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
