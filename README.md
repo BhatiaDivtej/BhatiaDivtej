@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **GPT, language models, AI; java, python, network protocols, efficient database management**
 
-- 📫 How to reach me **divtejbhatia17@gmail.com**
+- 📫 How to reach me **divtejbhatia17@gmail.com **
 
 
 
