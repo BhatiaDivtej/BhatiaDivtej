@@ -1,6 +1,7 @@
 
 <h3 align="center">Hi, I’m Divtej, a Computer Science student at HKU.</h3>
 
+- 💻 I’m currently working for Premialab HK Ltd, My Git Company Profile ([Divtej Bhatia Premialab](https://github.com/DivtejBhatia-plb))
 
 - 🌱 I’m currently learning Cyber Security, Game Design in Unity, Generative adversarial networks and Deep Learning Concepts
 
