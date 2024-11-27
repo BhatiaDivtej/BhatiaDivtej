@@ -1,5 +1,5 @@
 
-<h3 align="center">Hi, I’m Divtej, a Computer Science student at HKU.</h3>
+<h3 align="center">Hi, I’m Divtej, a Computer Science Graduate from HKU.</h3> 
 
 - 💻 I’m currently working for Premialab HK Ltd, My Git Company Profile ([Divtej Bhatia Premialab](https://github.com/DivtejBhatia-plb))
 
